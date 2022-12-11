@@ -72,3 +72,5 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Content/CitySampleBuildings/Textures/BrickOffsetAlt/T_BrickOffsetAlt_N.uasset
+Content/CitySampleBuildings/Building/NY/G/Kit_Bldg_NYG_L1_A/Mesh/SM_BLDG_NYG_L01_A_Entrance_01_N1.uasset
